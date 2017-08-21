@@ -1,0 +1,37 @@
+﻿生成启动时间为 2017/5/14 14:15:23。
+     1>项目“E:\2017课程\网络编程\实验七\QQ_Server\QQ_Server\QQ_Server.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\QQ_Server.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QQ_Server.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EventSelect.cpp QQ_Server.cpp QQ_ServerDlg.cpp
+         QQ_ServerDlg.cpp
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\qq_serverdlg.cpp(175): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+         QQ_Server.cpp
+         EventSelect.cpp
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(225): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(229): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(234): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(239): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(335): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(374): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(400): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_server\qq_server\eventselect.cpp(407): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\QQ_Server.res" QQ_Server.rc 
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2017课程\网络编程\实验七\QQ_Server\Debug\QQ_Server.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\2017课程\网络编程\实验七\QQ_Server\Debug\QQ_Server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2017课程\网络编程\实验七\QQ_Server\Debug\QQ_Server.lib" /MACHINE:X86 Debug\QQ_Server.res
+         Debug\EventSelect.obj
+         Debug\QQ_Server.obj
+         Debug\QQ_ServerDlg.obj
+         Debug\stdafx.obj
+         QQ_Server.vcxproj -> E:\2017课程\网络编程\实验七\QQ_Server\Debug\QQ_Server.exe
+     1>已完成生成项目“E:\2017课程\网络编程\实验七\QQ_Server\QQ_Server\QQ_Server.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.64

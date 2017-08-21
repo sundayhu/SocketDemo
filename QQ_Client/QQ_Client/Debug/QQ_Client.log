@@ -1,0 +1,29 @@
+﻿生成启动时间为 2017/5/14 14:15:36。
+     1>项目“E:\2017课程\网络编程\实验七\QQ_Client\QQ_Client\QQ_Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\QQ_Client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QQ_Client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt QQ_Client.cpp QQ_ClientDlg.cpp
+         QQ_ClientDlg.cpp
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(318): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(327): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(332): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(357): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(365): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>e:\2017课程\网络编程\实验七\qq_client\qq_client\qq_clientdlg.cpp(390): warning C4018: “<”: 有符号/无符号不匹配
+         QQ_Client.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\QQ_Client.res" QQ_Client.rc 
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2017课程\网络编程\实验七\QQ_Client\Debug\QQ_Client.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\2017课程\网络编程\实验七\QQ_Client\Debug\QQ_Client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2017课程\网络编程\实验七\QQ_Client\Debug\QQ_Client.lib" /MACHINE:X86 Debug\QQ_Client.res
+         Debug\QQ_Client.obj
+         Debug\QQ_ClientDlg.obj
+         Debug\stdafx.obj
+         QQ_Client.vcxproj -> E:\2017课程\网络编程\实验七\QQ_Client\Debug\QQ_Client.exe
+     1>已完成生成项目“E:\2017课程\网络编程\实验七\QQ_Client\QQ_Client\QQ_Client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.17
